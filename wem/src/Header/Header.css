@@ -1,0 +1,14 @@
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex: 1 0 67%;
+  position: relative;
+  width: 100%;
+  flex-wrap: nowrap;
+}
+
+.headerTitle {
+  flex-shrink: 0; 
+  margin-right: 40px;
+}

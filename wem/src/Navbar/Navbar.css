@@ -1,0 +1,12 @@
+.navbarList {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    top: 0;
+    z-index: 100;
+}

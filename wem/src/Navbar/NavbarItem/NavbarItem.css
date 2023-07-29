@@ -1,0 +1,14 @@
+.navbarList {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  .navbarList li {
+    cursor: pointer;
+    padding: 5px 0px 5px 0px;
+  }
+  
+  .navbarList li.active {
+    border-bottom: 1px solid #000;
+  }

@@ -1,0 +1,11 @@
+.App {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 25px;
+}
+
+.outerContainer {
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+    padding-left: 4vw;
+    padding-right: 4vw;
+}
